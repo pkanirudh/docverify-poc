@@ -1,4 +1,4 @@
-# DocVerify — SSC CGL Document Cross-Verification
+# Khagas Sahi — Case Study: SSC CGL Document Cross-Verification
 
 > Know if your documents will get you rejected — before it's too late.
 
